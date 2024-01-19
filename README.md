@@ -8,7 +8,7 @@ My GitHub profile is not representative of my code quality. My code is usually h
 
 **Recent Papers:**
 
-- Forest Ecology and Management: [Northernmost European spruce bark beetle Ips typographus outbreak: Modelling tree mortality using remote sensing and climate data](http://dx.doi.org/10.1016/j.foreco.2021.119829))
+- Forest Ecology and Management: [Northernmost European spruce bark beetle Ips typographus outbreak: Modelling tree mortality using remote sensing and climate data](http://dx.doi.org/10.1016/j.foreco.2021.119829)
 - Frontiers in Forests and Global Change: [Detection of susceptible Norway spruce to bark beetle attack using PlanetScope multispectral imagery](http://dx.doi.org/10.3389/ffgc.2023.1130721)
 
 <!--
