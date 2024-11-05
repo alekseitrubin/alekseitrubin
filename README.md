@@ -108,12 +108,6 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 
 ---
 
-## ⚡ Fun Fact
-
-When I'm not crunching data or coding, I enjoy exploring the great outdoors, which fuels my passion for data science!
-
----
-
 **Note**: My GitHub repositories showcase some of my public projects. I'm continuously working on exciting data science and engineering projects, so stay tuned for updates!
 
 ---
