@@ -102,7 +102,7 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 *Czech University of Life Sciences Prague (CZU)*  
 *2019 – 2024*
 
-- **Thesis**: [Link to Thesis]([URL-to-your-thesis](https://theses.cz/id/thi9s8/?isshlret=Trubin%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dtrubin%26start%3D1))
+- **Thesis**: [Link to Thesis](https://theses.cz/id/thi9s8/?isshlret=Trubin%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dtrubin%26start%3D1))
 
 **Certifications & Courses**
 
