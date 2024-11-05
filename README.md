@@ -100,9 +100,9 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 
 **Ph.D. in Applied Geoinformatics and Remote Sensing in Forestry**  
 *Czech University of Life Sciences Prague (CZU)*  
-*2019 – 2024 (Expected Completion)*
+*2019 – 2024*
 
-- **Thesis**: [Link to Thesis (if available online)](URL-to-your-thesis)
+- **Thesis**: [Link to Thesis]([URL-to-your-thesis](https://theses.cz/id/thi9s8/?isshlret=Trubin%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dtrubin%26start%3D1))
 
 **Certifications & Courses**
 
@@ -115,13 +115,13 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 
 - **LinkedIn**: [linkedin.com/in/aleksei-trubin](https://www.linkedin.com/in/aleksei-trubin/)
 - **ResearchGate**: [researchgate.net/profile/Aleksei-Trubin](https://www.researchgate.net/profile/Aleksei-Trubin)
-- **Email**: [aleksei.trubin@example.com](mailto:aleksei.trubin@example.com)
+- **Email**: [aleksei.trubin@example.com](mailto:trubin.a@outlook.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-When I'm not crunching data or coding, I enjoy exploring the great outdoors, which fuels my passion for environmental data science!
+When I'm not crunching data or coding, I enjoy exploring the great outdoors, which fuels my passion for data science!
 
 ---
 
