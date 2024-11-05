@@ -79,20 +79,9 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 *June 2024 – Present*  
 **AT&T** *(US Telecommunications Company)*
 
-- **Database Migration**: Migrated critical Oracle databases to PostgreSQL, reducing management costs by 20% and increasing query performance by 30% using Databricks.
-- **Spatial Query Optimization**: Developed spatial queries with PostGIS, eliminating the need for expensive GIS products and achieving significant cost savings.
-- **Performance Enhancement**: Improved functions and procedures, achieving up to a 50% increase in query speed with PostgreSQL optimizations.
-- **Process Automation**: Automated validation processes using FME and Python, reducing manual intervention by 70% and enhancing deployment efficiency.
-
 ### **Data Scientist**  
-*April 2022 – May 2024*  
+*March 2021 – May 2024*  
 **Landviser** *(US Environmental Consulting)*
-
-- **Client Satisfaction**: Increased client satisfaction by 90% through Agile methodologies, streamlining dashboard creation with Python, Mapbox, Leaflet, Power BI, and ArcGIS Online.
-- **Data Integration**: Boosted site analysis accuracy to 91.7% by processing geophysical, LiDAR, and optical data using Python, R, CloudCompare, QGIS, and ESRI ArcGIS Pro.
-- **Machine Learning Application**: Improved agricultural yields by 22% using machine learning techniques to analyze climate, soil, and vegetation data.
-- **Risk Mitigation**: Reduced crop failure risks by 23.7% by developing climate change impact models through statistical analysis.
-- **Efficiency Improvement**: Reduced data processing time by 30% by implementing optimized scripts and workflows in Python.
 
 ---
 
@@ -102,7 +91,7 @@ Developed Jupyter notebooks for analyzing mangrove cover changes and assessing c
 *Czech University of Life Sciences Prague (CZU)*  
 *2019 – 2024*
 
-- **Thesis**: [Link to Thesis](https://theses.cz/id/thi9s8/?isshlret=Trubin%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dtrubin%26start%3D1))
+- **Thesis**: [Link to Thesis](https://theses.cz/id/thi9s8/?isshlret=Trubin%3B;zpet=%2Fvyhledavani%2F%3Fsearch%3Dtrubin%26start%3D1)
 
 **Certifications & Courses**
 
